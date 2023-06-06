@@ -1,0 +1,4 @@
+no cadastro de usuario tem que ter os campos:
+nome:
+email:
+senha:
